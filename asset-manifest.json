@@ -1,0 +1,37 @@
+{
+  "files": {
+    "main.css": "/react_59_domanskayelyzaveta/static/css/main.ee947c84.css",
+    "main.js": "/react_59_domanskayelyzaveta/static/js/main.46e035fa.js",
+    "static/media/Rectangle-2.png": "/react_59_domanskayelyzaveta/static/media/Rectangle-2.ffa9ab2d416523be32b7.png",
+    "static/media/ellipse-tablet-1x.webp": "/react_59_domanskayelyzaveta/static/media/ellipse-tablet-1x.1cb30ebb34364fb38a7e.webp",
+    "static/media/money-tablet-1x.webp": "/react_59_domanskayelyzaveta/static/media/money-tablet-1x.53be8a4cc862e56c2266.webp",
+    "static/media/money-desktop-1x.webp": "/react_59_domanskayelyzaveta/static/media/money-desktop-1x.ec199cad0324ec15f10f.webp",
+    "static/media/ellipse-mobile-1x.webp": "/react_59_domanskayelyzaveta/static/media/ellipse-mobile-1x.af407d9277f5078823a6.webp",
+    "static/media/balance-notification.webp": "/react_59_domanskayelyzaveta/static/media/balance-notification.802d7d49dabc128cd0a1.webp",
+    "static/media/sprite.svg": "/react_59_domanskayelyzaveta/static/media/sprite.dc1adc3332f34d07be0af435406910ca.svg",
+    "static/media/logo-tablet-2x.webp": "/react_59_domanskayelyzaveta/static/media/logo-tablet-2x.7c82e850853a973ef354.webp",
+    "static/media/logo-mobile-2x.webp": "/react_59_domanskayelyzaveta/static/media/logo-mobile-2x.8f9f976a6f5e42d72360.webp",
+    "static/media/logo-tablet-1x.webp": "/react_59_domanskayelyzaveta/static/media/logo-tablet-1x.b1e690a6cd9f2bbff500.webp",
+    "static/media/Technics.webp": "/react_59_domanskayelyzaveta/static/media/Technics.04fd874016eb15f59917.webp",
+    "static/media/Other.webp": "/react_59_domanskayelyzaveta/static/media/Other.53bcbce19d1ad6a2b653.webp",
+    "static/media/Transport.webp": "/react_59_domanskayelyzaveta/static/media/Transport.2b17468cfa797ebf31f2.webp",
+    "static/media/Alcohol.webp": "/react_59_domanskayelyzaveta/static/media/Alcohol.5fef993d0bbd1d9b6e39.webp",
+    "static/media/Sports-and-hobby.webp": "/react_59_domanskayelyzaveta/static/media/Sports-and-hobby.f0cbea2722f2e0239571.webp",
+    "static/media/Entertainment.webp": "/react_59_domanskayelyzaveta/static/media/Entertainment.68b77dbdb125a79fceae.webp",
+    "static/media/Education.webp": "/react_59_domanskayelyzaveta/static/media/Education.c2adfe9965a4039b9197.webp",
+    "static/media/Health.webp": "/react_59_domanskayelyzaveta/static/media/Health.f29b2b2c5c549d55525a.webp",
+    "static/media/Products.webp": "/react_59_domanskayelyzaveta/static/media/Products.d776ca6c7494c297dbe0.webp",
+    "static/media/logo-mobile-1x.webp": "/react_59_domanskayelyzaveta/static/media/logo-mobile-1x.82c0eaf8ca0347dc2f1a.webp",
+    "static/media/Utilities.webp": "/react_59_domanskayelyzaveta/static/media/Utilities.348da6cbf1b3133b23d8.webp",
+    "static/media/For-home.webp": "/react_59_domanskayelyzaveta/static/media/For-home.76d593c91183011af89b.webp",
+    "index.html": "/react_59_domanskayelyzaveta/index.html",
+    "static/media/Additional-income.webp": "/react_59_domanskayelyzaveta/static/media/Additional-income.c189590c1baf3a0a58ec.webp",
+    "static/media/Salary.webp": "/react_59_domanskayelyzaveta/static/media/Salary.bb0eb9f75b47dcc1b026.webp",
+    "main.ee947c84.css.map": "/react_59_domanskayelyzaveta/static/css/main.ee947c84.css.map",
+    "main.46e035fa.js.map": "/react_59_domanskayelyzaveta/static/js/main.46e035fa.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.ee947c84.css",
+    "static/js/main.46e035fa.js"
+  ]
+}
