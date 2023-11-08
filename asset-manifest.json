@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/react_59_domanskayelyzaveta/static/css/main.ee947c84.css",
-    "main.js": "/react_59_domanskayelyzaveta/static/js/main.46e035fa.js",
+    "main.js": "/react_59_domanskayelyzaveta/static/js/main.4249a365.js",
     "static/media/Rectangle-2.png": "/react_59_domanskayelyzaveta/static/media/Rectangle-2.ffa9ab2d416523be32b7.png",
     "static/media/ellipse-tablet-1x.webp": "/react_59_domanskayelyzaveta/static/media/ellipse-tablet-1x.1cb30ebb34364fb38a7e.webp",
     "static/media/money-tablet-1x.webp": "/react_59_domanskayelyzaveta/static/media/money-tablet-1x.53be8a4cc862e56c2266.webp",
@@ -28,10 +28,10 @@
     "static/media/Additional-income.webp": "/react_59_domanskayelyzaveta/static/media/Additional-income.c189590c1baf3a0a58ec.webp",
     "static/media/Salary.webp": "/react_59_domanskayelyzaveta/static/media/Salary.bb0eb9f75b47dcc1b026.webp",
     "main.ee947c84.css.map": "/react_59_domanskayelyzaveta/static/css/main.ee947c84.css.map",
-    "main.46e035fa.js.map": "/react_59_domanskayelyzaveta/static/js/main.46e035fa.js.map"
+    "main.4249a365.js.map": "/react_59_domanskayelyzaveta/static/js/main.4249a365.js.map"
   },
   "entrypoints": [
     "static/css/main.ee947c84.css",
-    "static/js/main.46e035fa.js"
+    "static/js/main.4249a365.js"
   ]
 }
